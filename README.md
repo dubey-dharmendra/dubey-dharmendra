@@ -22,26 +22,6 @@
 ## 🚀 About Me
 Hi, I'm **Dharmendra Dubey**, a dedicated **Fullstack Developer** with expertise in building scalable backend solutions, RESTful APIs, and dynamic frontend interfaces for seamless user experiences
 
-### 🎯 What Drives Me
-- 💻 **Problem Solving**: Finding elegant solutions to complex technical challenges
-- 🚀 **Innovation**: Exploring cutting-edge technologies and best practices
-- 🤝 **Collaboration**: Working with teams to build amazing products
-- 📈 **Growth**: Continuously learning and improving my skills
-
-## 🔥 What I Do
-- 🌐 **Frontend Development**: ReactJs, Tailwind Css, Bootstrap, Material UI, Redux
-- 🌐 **Backend Development**:  NodeJs, ExpressJs 
-- 🛢 **Database Management**:   MongoDB, PostgreSQL, Redis  
-- 🔨 **Testing Framework**:     Jest
-- ☁ **Cloud & DevOps**:        AWS, Docker
-- ☁ **Other Technologies**:    Microservices, Socket.io, GraphQL, Kafka, Firebase, CI/CD, MQTT, Low-Code/No-Code
-
-
-
-## 📚 Currently Learning & Exploring
-- 🏗️ **Microservices Architecture** - Scalable system design
-- 🚀 **Kubernetes & Serverless** - Cloud-native development
-
 
 ## 🛠️ Technical Skills
 
@@ -78,6 +58,29 @@ Hi, I'm **Dharmendra Dubey**, a dedicated **Fullstack Developer** with expertise
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/>
 </div>
 
+### 🎯 What Drives Me
+- 💻 **Problem Solving**: Finding elegant solutions to complex technical challenges
+- 🚀 **Innovation**: Exploring cutting-edge technologies and best practices
+- 🤝 **Collaboration**: Working with teams to build amazing products
+- 📈 **Growth**: Continuously learning and improving my skills
+
+## 🔥 What I Do
+- 🌐 **Frontend Development**: ReactJs, Tailwind Css, Bootstrap, Material UI, Redux
+- 🌐 **Backend Development**:  NodeJs, ExpressJs 
+- 🛢 **Database Management**:   MongoDB, PostgreSQL, Redis  
+- 🔨 **Testing Framework**:     Jest
+- ☁ **Cloud & DevOps**:        AWS, Docker
+- ☁ **Other Technologies**:    Microservices, Socket.io, GraphQL, Kafka, Firebase, CI/CD, MQTT, Low-Code/No-Code
+
+
+
+## 📚 Currently Learning & Exploring
+- 🏗️ **Microservices Architecture** - Scalable system design
+- 🚀 **Kubernetes & Serverless** - Cloud-native development
+
+
+
+
 
 ## 📊 GitHub Analytics
 <p align="center">
@@ -105,6 +108,9 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 
 <p align="left">
 
+<a href = "mailto:dubey.dharmendra47@outlook.com">
+<img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/dharmendra-kumar-dubey-48a2031a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -119,10 +125,6 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 - 🤝 **Collaborations** - Open source contributions and team projects
 - 📚 **Learning** - Mentorship and knowledge sharing
 - 💼 **Career Growth** - Full-time opportunities in backend development
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="Coding GIF">
-</p>
 
 
 ### ⭐️ **Star this repository if you find my work interesting!**
